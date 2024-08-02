@@ -1,13 +1,23 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: Vazir;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: Vazir;
+  src: url('../public/fonts/Vazir.ttf');
+  src: url('../public/fonts/Vazir.eot') format('embedded-opentype'),
+       url('../public/fonts/Vazir.woff') format('woff'),
+       url('../public/fonts/Vazir.woff2') format('truetype');
+}
+body {
+  font-family: Vazir;
+  height: 100vh;
+  width: 100vw;
+  background-color: #282a36!important;
+}
+
+.to.Toastify__toast-body {
+  font-family: Vazir tahoma !important;
 }
