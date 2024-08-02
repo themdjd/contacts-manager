@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/contactsManager/static/css/main.9d5c697e.css",
+    "main.js": "/contactsManager/static/js/main.b1a8d354.js",
+    "static/media/spinnervlll.gif": "/contactsManager/static/media/spinnervlll.90e84798e55abc4499ac.gif",
+    "static/media/Vazir.eot": "/contactsManager/static/media/Vazir.04fa21193336c3e1fa98.eot",
+    "static/media/Vazir.ttf": "/contactsManager/static/media/Vazir.8698ab7164cb8aa9f35b.ttf",
+    "static/media/Vazir.woff": "/contactsManager/static/media/Vazir.a30b9598c58099f1584c.woff",
+    "static/media/Vazir.woff2": "/contactsManager/static/media/Vazir.0236d12799f12ebefd2d.woff2",
+    "static/media/noteMan.png": "/contactsManager/static/media/noteMan.fd58b964cc57003ec097.png",
+    "index.html": "/contactsManager/index.html",
+    "main.9d5c697e.css.map": "/contactsManager/static/css/main.9d5c697e.css.map",
+    "main.b1a8d354.js.map": "/contactsManager/static/js/main.b1a8d354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5c697e.css",
+    "static/js/main.b1a8d354.js"
+  ]
+}
