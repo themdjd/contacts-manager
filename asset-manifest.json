@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/contacts-manager/static/css/main.88c6d272.css",
-    "main.js": "/contacts-manager/static/js/main.b8be275e.js",
+    "main.js": "/contacts-manager/static/js/main.058edf1b.js",
     "static/media/spinnervlll.gif": "/contacts-manager/static/media/spinnervlll.90e84798e55abc4499ac.gif",
     "static/media/Vazir.eot": "/contacts-manager/static/media/Vazir.04fa21193336c3e1fa98.eot",
     "static/media/Vazir.ttf": "/contacts-manager/static/media/Vazir.8698ab7164cb8aa9f35b.ttf",
@@ -10,10 +10,10 @@
     "static/media/noteMan.png": "/contacts-manager/static/media/noteMan.fd58b964cc57003ec097.png",
     "index.html": "/contacts-manager/index.html",
     "main.88c6d272.css.map": "/contacts-manager/static/css/main.88c6d272.css.map",
-    "main.b8be275e.js.map": "/contacts-manager/static/js/main.b8be275e.js.map"
+    "main.058edf1b.js.map": "/contacts-manager/static/js/main.058edf1b.js.map"
   },
   "entrypoints": [
     "static/css/main.88c6d272.css",
-    "static/js/main.b8be275e.js"
+    "static/js/main.058edf1b.js"
   ]
 }
